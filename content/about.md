@@ -13,7 +13,7 @@ aliases = ["about-us","contact"]
   * Nov 2017 - Now 
   * Yazd, Iran
 
-* Baram Andishe Sazan Aria (BASA)
+* Barman Andishe Sazan Aria (BASA)
   * Network Engineer
   * Nov 2016 - Aug 2017
   * Yazd, Iran
@@ -28,8 +28,14 @@ aliases = ["about-us","contact"]
   * 2011 - 2016
 
 #### Certifications
-* CCNA - Laitech (2015)
-* HCNA (2019 - 2021)
+* HCNA
+  * Huawei Technologies
+  * Issued Nov 2017 - Nov 2020
+  * Credential ID 010100101401806859251421
+* CCNA
+  * Laitec
+  * Issued Jul 2015
+  * Credential ID SUT-IT000-12512
 
 #### Languages
 * Persion
