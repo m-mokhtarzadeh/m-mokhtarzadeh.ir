@@ -38,5 +38,5 @@ aliases = ["about-us","contact"]
   * Credential ID SUT-IT000-12512
 
 #### Languages
-* Persion
+* Persian
 * English
