@@ -1,4 +1,4 @@
-baseURL = "https://mmokhtar.ir"
+baseURL = "https://m-mokhtarzadeh.ir"
 title   = "Mohammad Mokhtar Mokhtarzadeh Tabrizi"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -132,12 +132,12 @@ disableHugoGeneratorInject = false
   [languages.en]
     subtitle  = "HOME"
     weight    = 1
-    copyright = '<a href="https://mmokhtar.ir/" target="_blank" rel="noopener">CC MMOKHTAR.IR</a>'
+    copyright = '<a href="https://m-mokhtarzadeh.ir/" target="_blank" rel="noopener">CC MMOKHTAR.IR</a>'
 
   [languages.fa]
     subtitle  = "خانه"
     weight    = 2
-    copyright = '<a href="https://mmokhtar.ir/" target="_blank" rel="noopener">CC MMOKHTAR.IR</a>'
+    copyright = '<a href="https://m-mokhtarzadeh.ir/" target="_blank" rel="noopener">CC MMOKHTAR.IR</a>'
 
 [menu]
   [[menu.main]]
