@@ -22,7 +22,7 @@ jobs:
           # extended: true
 
       - name: Extend Hugo Features
-        run: go install --tags extended
+        run: CGO_ENABLED=1 go install --tags extended github.com/gohugoio/hugo@latest
 
       - name: Build
         run: hugo --minify
