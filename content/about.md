@@ -8,9 +8,19 @@ aliases = ["about-us","contact"]
 
 
 #### Experience
+* DevOps Specialist
+  * DevOps Specialist
+  * Oct 2020 - Present
+  * Yazd, Iran
+
+* Fanavaran Boshra Pardaz
+  * DevOps Specialist
+  * Sep 2020 - Jul 2022 
+  * Yazd, Iran
+
 * Fanavaran Boshra Pardaz
   * Network and System Administrator
-  * Nov 2017 - Now 
+  * Nov 2017 - Sep 2020 
   * Yazd, Iran
 
 * Barman Andishe Sazan Aria (BASA)
@@ -21,7 +31,7 @@ aliases = ["about-us","contact"]
 #### Education
 * Yazd Payame Nour University
   * B.S. Information Technology
-  * 2017 - Now
+  * 2017 - Feb 2022
 
 * Iranshahr High School
   * Diploma, Mathematics and Physics
