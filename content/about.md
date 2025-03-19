@@ -3,18 +3,23 @@ title = "About Me"
 date = "2022-12-03"
 aliases = ["about-us","contact"]
 [ author ]
-  name = "Mohammad Mokhtar Mokhtarzadeh Tabrizi"
+  name = "Mohammad Mokhtarzadeh"
 +++
 
 
 #### Experience
-* Rayanesh Sari Hezareh Iranian (Astek)
-  * DevOps Specialist
+* HPCLab.ir
+  * DevOps Engineer
   * Oct 2020 - Present
   * Yazd, Iran
 
+* Rightel
+  * DevOps Engineer
+  * Nov 2020 - March 2025
+  * Yazd, Iran
+ 
 * Fanavaran Boshra Pardaz
-  * DevOps Specialist
+  * DevOps Engineer
   * Sep 2020 - Jul 2022 
   * Yazd, Iran
 
@@ -30,11 +35,11 @@ aliases = ["about-us","contact"]
 
 #### Education
 * Yazd Payame Nour University
-  * B.S. Information Technology
+  * Bachelors of Engineering, Computer Engineering
   * 2017 - Feb 2022
 
 * Iranshahr High School
-  * Diploma, Mathematics and Physics
+  * Diploma, Mathematics
   * 2011 - 2016
 
 #### Certifications
